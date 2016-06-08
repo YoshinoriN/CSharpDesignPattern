@@ -1,0 +1,2 @@
+# CSharpDesignPattern
+C#でデザインパターンのサンプルとか
